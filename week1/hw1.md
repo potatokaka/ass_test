@@ -1,7 +1,7 @@
 ## 交作業流程
 
 ### 前置作業
-1. 連至 GitHub Classroom 的[頁面](https://classroom.github.com/a/V4hZopA2)
+1. 連至 GitHub Classroom 的[頁面](https://classroom.github.com/a/V4hZopA2)
 2. 接受 Assignment： Authorize github → Accept this assignment
 3. 複製 Assignment 的 repo 到本地端：
 在 Terminal 打上 git clone https://github.com/Lidemy/mentor-program-3rd-potatokaka.git
