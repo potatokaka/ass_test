@@ -7,11 +7,11 @@
 在 Terminal 打上 `git clone https://github.com/Lidemy/mentor-program-3rd-potatokaka.git`
 - - -
 ### 交作業 (GitHub Flow)
-1. 新開一支 branch：git branch week1
+1. 新開一支 branch：git branch week1  
 **注意：永遠在一個新的 branch 寫作業，不要在 master 上寫作業**
 2. 切換到作業的 branch： git checkout week1 
 3. 完成全部的作業
-4. 提交：git commit -am "Add assignment"
+4. 提交：`git commit -am "Add assignment"`
 5. 把 branch 放上 GitHub：git push origin week1
 6. 到 GitHub 上發起「compare & pull request」
 7. 確認合併的方向「base: master ← compare: week1」
