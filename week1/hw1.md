@@ -4,8 +4,8 @@
 1. 連至 GitHub Classroom 的[頁面](https://classroom.github.com/a/V4hZopA2)
 2. 接受 Assignment： Authorize github → Accept this assignment
 3. 複製 Assignment 的 repo 到本地端：  
-在 Terminal 打上 git clone https://github.com/Lidemy/mentor-program-3rd-potatokaka.git
-
+在 Terminal 打上 `git clone https://github.com/Lidemy/mentor-program-3rd-potatokaka.git`
+- - -
 ### 交作業 (GitHub Flow)
 1. 新開一支 branch：git branch week1
 **注意：永遠在一個新的 branch 寫作業，不要在 master 上寫作業**
@@ -18,8 +18,8 @@
     - 下方打上標題、心得或問題，並 tag 老師
     - 按下按鈕「Create pull request」
 8. 到第三期交作業專用 [repo](https://github.com/Lidemy/homeworks-3rd) 裡面的「issues」 
-    - 建立一個 New issue，依正確格式建立，格式如下：
-        標題：[Week1]
+    - 建立一個 New issue，依正確格式建立，格式如下：  
+        標題：[Week1]  
         內文：https://github.com/Lidemy/mentor-program-3rd-aszx87410/pull/1 (我的 Pull requests 網址) 或心得
     - Submit new issue
     - 完成後機器人會主動 tag 同學來看作業
