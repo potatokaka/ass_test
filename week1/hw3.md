@@ -17,8 +17,8 @@ Command line 是一種用文字與電腦溝通的方法，也叫做「命令列�
 不同的作業環境系統，指令會不太一樣。Windows 要開啟命令提示字元 cme.exe；而 Mac 是到 Application / Utilities 資料夾，打開終端機 Terminal ，就可以開始使用了。
 以下是 Mac 常用的一些指令：
 - `pwd`：Print Working Directory 印出目前所在的位置
-- `ls`：List Segment：印出目前的檔案列表
-有些指令還有提供參數，例如在ls 加上 「-l」，會印出檔案更多的資訊，像是檔案大小、編輯時間…等
+- `ls`：List Segment 印出目前的檔案列表
+有些指令還有提供參數，例如在 ls 加上 「-l」，會印出檔案更多的資訊，像是檔案大小、編輯時間…等
 - `cd`：Change Directory 切換路徑
 
 ### 那 h0w 哥 想要的開新資料夾及資料夾要怎麼做？
