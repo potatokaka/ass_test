@@ -5,7 +5,7 @@ h0w 哥，既然我們是麻吉，所以下面來和你分享我理解的 comman
 ### 什麼是 command line 呢？
 Command line 是一種用文字與電腦溝通的方法，也叫做「命令列界面 」(Command Line Interface)，簡稱 CLI。
 簡單來說，CLI 就像是刻板印象中駭客開啟一個黑黑的介面，瘋狂地打著一行行又多又密的指令。
-這是在「圖形使用者介面」( Graphical user interface，簡稱 GUI )出現之前，最為普遍的使用者介面。
+這是在「圖形使用者介面」( Graphical user interface，簡稱 GUI ) 出現之前，最為普遍的使用者介面。
 那什麼又是 GUI 呢？GUI 是透過圖像的方式來操作電腦，舉例來說，在瀏覽器左上角，點擊縮小視窗按鈕，就是在和電腦說：「請把視窗縮小」。
 然而，相較於 GUI 的直覺式操作， CLI 主要使用鍵盤輸入指令，電腦在收到指令後，去執行相對應的作業。
 
@@ -14,7 +14,7 @@ Command line 是一種用文字與電腦溝通的方法，也叫做「命令列�
 第二點是因為，有些時候 CLI 在下指令時，會比 GUI 會圖形介面操作來得快，例如，開新資料夾，切換路徑…等。但是前提是，使用者必需先熟悉指令後，才有辦法與電腦溝通，達成你想要它完成的任務。
 
 ### 要怎麼開始使用？
-不同的作業環境系統，指令會不太一樣。Windows 要開啟命令提示字元 cme.exe；而 Mac 是到 Application / Utilities 資料夾，打開 終端機 Terminal ，就可以開始使用了。
+不同的作業環境系統，指令會不太一樣。Windows 要開啟命令提示字元 cme.exe；而 Mac 是到 Application / Utilities 資料夾，打開終端機 Terminal ，就可以開始使用了。
 以下是 Mac 常用的一些指令：
 - `pwd`：Print Working Directory 印出目前所在的位置
 - `ls`：List Segment：印出目前的檔案列表
