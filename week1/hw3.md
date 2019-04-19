@@ -19,7 +19,7 @@ Command line 是一種用文字與電腦溝通的方法，也叫做「命令列�
 - `pwd`：Print Working Directory 印出目前所在的位置
 - `ls`：List Segment：印出目前的檔案列表
 有些指令還有提供參數，例如在ls 加上 「-l」，會印出檔案更多的資訊，像是檔案大小、編輯時間…等
-- cd：Change Directory 切換路徑
+- `cd`：Change Directory 切換路徑
 
 ### 那 h0w 哥 想要的開新資料夾及資料夾要怎麼做？
 1. 在 Mac 開啟 Terminal
