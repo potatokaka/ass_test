@@ -32,9 +32,7 @@ Git 會將整個專案儲存為一個儲存庫(repository)，可以想像成一�
 1. 在 GitHub 網站上開新專案：在網站右上角「+」並點選「New repository」
 2. 填寫專案名稱 → 「Create repository」
 3. 依 「push an existing repository from the command line」操作：`git remote add origin https://github.com/potatokaka/test2.git`
-`git push -u origin master`。
-
-使用 `git push` 指令，就會將整個專案的東西推至遠端的專案裡面，也就是做了一次專案備份的動作。如此一來，菜哥的笑話就可以和夥伴一起發展成更多漫才的段子。
+`git push -u origin master`。使用 `git push` 指令，就會將整個專案的東西推至遠端的專案裡面，也就是做了一次專案備份的動作。如此一來，菜哥的笑話就可以和夥伴一起發展成更多漫才的段子。
 4. 接下來，如果還有新的檔案要上傳遠端，只要輸入 `git push origin master` 就可以了。
 ---
 #### Step E. 同步最新的專案
