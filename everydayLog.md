@@ -7,7 +7,7 @@
 
 ### Reflective / Interpretive
 以為上傳作業會花一段時間，沒想到還滿快的！
-因為周末也是行程滿滿，所以趕快把握時間，可以多做一點 HW2 的部份 (笑)。
+因為周末也要進劇院工作行程滿滿，所以趕快把握時間，可以多做一點 HW2 的部份 (笑)。
 
 ### Decisional
 「Thank God It's Friday.」
