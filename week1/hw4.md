@@ -26,7 +26,7 @@ Git 會將整個專案儲存為一個儲存庫(repository)，可以想像成一�
 ---
 #### Step C. 將檔案提交 (commit) 到本地儲存庫 (local repository)
 `git commit -m '版本敘述'`：將暫存區的檔案保存到儲存庫（Repository）裡面。簡單來說就是，「我完成一次備份了」，也就是在「提交」時，進行一次版本建立的動作。
-    - 也可以使用 `git commit -am '版本敘述'`，就可以縮短 `git add` 和 `git commit`的二步驟流程，但這只對於已存入 stage 的檔案才有效；新建立的檔案 (untracked file) 還是需要先 `git add` 噢。
+另外，也可以使用 `git commit -am '版本敘述'`，就可以縮短 `git add` 和 `git commit`的二步驟流程，但這只對於已存入 stage 的檔案才有效；新建立的檔案 (untracked file) 還是需要先 `git add` 噢。
 ---
 #### Step D. 將本地儲存庫 (local repository)上傳到遠端 (remote repository)
 1. 在 GitHub 網站上開新專案：在網站右上角「+」並點選「New repository」
