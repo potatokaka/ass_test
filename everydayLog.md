@@ -6,6 +6,7 @@ JS101: 33%時
   2. 再填入細節實作
 
 宣告函式的不同種方式  有點難…需要消化一下
+Jumping from failure to failure with undiminished enthusiasm is the big secret to success.” Savas Dimopoulos  
 
 ---
 2019-04-19
