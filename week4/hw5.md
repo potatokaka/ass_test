@@ -19,10 +19,7 @@ API (Application Programming Interface) 從字面上的解釋是「應用程式�
 ### Ramen API
 Ramen API 服務，提供餐廳資料顯示、新增、修改、刪除餐廳資訊的功能。
 
-### GET 
-列出餐廳資料
-
-**Getting Started**
+### Getting Started
 Base URL： `https://loveRamen.com/api/ramen`
 
 | 說明     | Method | path       | 參數                   | Example             |
