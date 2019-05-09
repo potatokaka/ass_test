@@ -27,7 +27,7 @@ Base URL： `https://loveRamen.com/api/ramen`
 | 獲取餐廳列表 | GET    | /ramen     | _limit:限制回傳資料數量           | /ramen?_limit=10 |
 | 獲取單一餐廳 | GET    | /ramen/:id | 無                    | /ramen/10      |
 | 新增餐廳   | POST   | /ramen     | id:餐廳ID name: 餐廳名稱 | /ramen?name="小山屋"              |
-| 刪除餐廳   | DELETE   | /ramen/:id     | none | /ramen/10               |
+| 刪除餐廳   | DELETE   | /ramen/:id     | 無 | /ramen/10               |
 | 更改餐廳資訊   | PATCH   | /ramen/:id     | id:餐廳ID name: 餐廳名稱 | /ramen/10?name="小山屋"             |
 
 
