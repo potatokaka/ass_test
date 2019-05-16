@@ -26,3 +26,4 @@ HTTP Game 因為老師說有藏了一些無聊的梗，所以很認真地破到�
 - LV6：base64的編碼格式，是用其他站的編碼去做轉換的，偷懶沒有研究自己寫
 - LV9：不知道為什麼使用自己的 User-Agent `Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.157 Safari/537.36`沒辦法破關，最後用了其他攻略上的碼才完成
 
+- 繼續完成其他挑戰題
