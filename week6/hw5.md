@@ -8,7 +8,7 @@ HTML5 影片標籤，可以在網頁裡加入影片，減輕外掛程式的需�
 `<video src="movie.ogg" controls></video>`  
 
 - `<figure>`：  
-HTML5 專門放置圖片的標籤， <figure> 是一個完整內容的區塊，再將圖片與標題包覆在 <figure> 元素裡面。此為 HTML5 新增的語意化標籤，用以加強文件的結構化，以利搜尋引擎辨識搜尋，以及後續維護管理。  
+HTML5 專門放置圖片的標籤，`<figure>` 是一個完整內容的區塊，再將圖片與標題包覆在 <figure> 元素裡面。此為 HTML5 新增的語意化標籤，用以加強文件的結構化，以利搜尋引擎辨識搜尋，以及後續維護管理。  
 ```
 <figure>
     <figcaption>Photo Title</fugcaption>
