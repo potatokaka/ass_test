@@ -19,6 +19,6 @@ Event delegation 是事件指派的意思，可以利用 DOM 的事件傳遞機�
 舉例來說，文件上同時有很多子節點都有相似的 click 監聽事件，與其在每個子節點上一一建立，更有效率的作法是，利用 DOM 的事件冒泡機制，將事件綁定在父節點上，如此一來，可以減少程式重覆性的撰寫，增加效能。
 
 ## event.preventDefault() 跟 event.stopPropagation() 差在哪裡，可以舉個範例嗎？
-`event.preventDefault()` 會阻止網頁元素預設行為的發生，例如，表單提交的按鈕如果加上`event.preventDefault()`，點擊按鈕時，表單就不會提交出去。其中要注意的是，雖然元素的預設行為失效，但不會影響事件的傳遞，事件傳遞的機制仍會持續進行。
+`event.preventDefault()` 會阻止網頁元素預設行為的發生，例如表單提交的按鈕如果加上`event.preventDefault()`，點擊按鈕時，表單就不會提交出去。其中要注意的是，雖然元素的預設行為失效，但不會影響事件的傳遞，事件傳遞的機制仍會持續進行。
 
 `event.stopPropagation()` 則是會阻止事件傳遞機制，主要的作用是阻止目標元素的事件冒泡到父元素上。承第二題的例子，如果在 `<btn>` 的事件加上 `event.stopPropagation()` ，事件就不會再往上傳遞到上層的 `<inner>` > `<outer>`  > body > html。雖然 `event.stopPropagation()` 會停止事件傳遞，但不會影響元素的預設行為。
