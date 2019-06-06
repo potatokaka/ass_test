@@ -1,5 +1,5 @@
 ## 什麼是 Ajax？
-Ajax 是 Asynchronous JavaSript and XML 的簡寫，字面上的意思是「非同步的 JavaScript 和 XML」。其中 JavaScript 是使用的程式語言， XML 則是資料交換的格式，因為此技術早期是使用 XML 格式來傳資料，但目前最通用的交換資料格式為 JSON。
+Ajax 是 Asynchronous JavaScript and XML 的簡寫，字面上的意思是「非同步的 JavaScript 和 XML」。其中 JavaScript 是使用的程式語言， XML 則是資料交換的格式，因為此技術早期是使用 XML 格式來傳資料，但目前最通用的交換資料格式為 JSON。
 
 Ajax 是一種非同步網頁處理資料的技術。首先，「同步」的概念是，依序一行一行去執行 JavaScript 的程式，但常常會遇到的狀況是，使用 API 發送 request 到 server 端時，等待 response 傳回來的時間太長，此時整個頁面裡的其他程式碼會停止載入，呈現停滯假死狀態，因此造成頁面載入耗時，操作不穩定而破壞使用者體驗。而非同步的方式，是非同步載入的流程，也就是發送 request 之後，不用等 response 回來，頁面可以同時執行其他程式，一旦 response 回傳之後，再使用 callback function 來處理回傳的資料。
 
