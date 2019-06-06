@@ -1,0 +1,98 @@
+/* ------------RESET-----------------*/
+body{
+    font-family: sans-serif;
+    color: white;
+    background: url('https://i.imgur.com/oAf6eLy.jpg') no-repeat;
+    background-size: cover;
+}
+ol, ul {
+	list-style: none;
+}
+a{
+    text-decoration: none;
+    color: white;
+}
+/* -----------------------------------*/
+.header{
+    display: flex;
+    align-items: center;
+    background: #2D2D2C;
+    padding: 5px 20px;
+}
+.logo{
+    font-size: 20px;
+    color: white;
+}
+.header ul{
+    margin-right: auto;
+}
+.header li{
+    display: inline-block;
+}
+.header li a{
+    color: rgba(255,255,255,.5);
+    margin-right: 15px;
+}
+.header .active{
+    color: white;
+}
+.header h4{
+    font-weight: 400;
+    font-size: 15px;
+}
+
+.wrapper{
+    margin: 0 auto;
+    width: 80%;
+    text-align: center;
+}
+.h1{
+    font-size: 45px;
+    color: #e7f3fd;
+}
+.desc{
+    margin-top: 15px;
+    font-size: 18px;
+    color: #b8dafa;
+}
+.stream{
+    margin-top: 50px;
+    display: flex;
+    flex-wrap: wrap;
+}
+.card{
+    box-sizing: border-box;
+    width: 25%;
+    background: #141414;
+    opacity: 0.9;
+    padding: 5px;
+    transition: all 0.3s;
+}
+.card:hover{
+    transform: scale(1.05);
+    opacity: 1;
+    box-shadow: 0 0 2rem black;
+}
+.card__img{
+    width: 100%;
+}
+.card__info{
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+}
+.avatar{
+    border-radius: 50%;
+    width: 25%;
+    height: 25%;
+}
+.card__name{
+    margin-left: 10px;
+    width: 70%;
+    text-align: left;
+}
+.footer{
+    color: #6c757d;    
+    text-align: center;
+    margin: 50px 0 20px 0;
+}
