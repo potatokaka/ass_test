@@ -13,7 +13,7 @@ Ajax 是一種非同步網頁處理資料的技術。首先，「同步」的概
 ## JSONP 是什麼？
 JSONP 全名是 JSON with Padding，是一種跨網域取得資料的技術。瀏覽器因為設置同源政策 (same-origin policy) 的限制，只允許同一網域互相存取資料，以確保網路安全性。而 JSONP 的本質是運用 `<script>` 標籤可以跨網域的特性，來達成跨網域的請求。此為一種非正式傳輸協議，作法是用 GET 的方式傳送請求至跨來源的伺報器，其中會傳遞一個參數，也就是一個 callback Function，server 端再將資料以 callback Function 的方式包裹 JSON 數據，回傳至 client 端。當資料傳輸完成之後，client 端再執行 server 端回傳的 callback function 以取得結果。其缺點是不支援 POST 其他類型的 HTTP 請求。
 
-總體來說，Ajax 的運作是通過 XmlHttpRequest 取得資訊；而 JSONP 的本質是使用動態添加 `<script>` 標籤來調用跨域服務器上資料。
+雖然 JSONP 的功能和 Ajax 感覺有點類似，總體來說，Ajax 的運作是通過 XmlHttpRequest 取得資訊；而 JSONP 的本質是使用動態添加 `<script>` 標籤來調用跨域服務器上資料。
 
 
 ## 要如何存取跨網域的 API？
