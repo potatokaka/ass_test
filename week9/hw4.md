@@ -12,7 +12,7 @@
 由於 HTTP 本身是無狀態 (Stateless) 的協議，因此從 Client 端發出的 request ，每次都被視為一個獨立的請求。而為了使 Client 端與 Server 端保持聯繫與溝通的狀態，可以透過 Cookie 來達成。
 Cookie 是伺服器傳送並儲存在 Client 端瀏覽器的小片段資料，瀏覽器會在下一次發送 request 時，回傳 cookie 至原本的伺服器，如此一來，即可確認 request 是來自同一個瀏覽器，來保持使用者的登入狀態、或是追蹤使用者的行為。而 cookie 有時效期限，時間到了會自動清除。
 
-###Cookie 主要用於：
+### Cookie 主要用於：
 1. Session 管理  
 帳號登入、購物車、使用者在購物網站填寫的email、地址…等
 
@@ -22,7 +22,7 @@ Cookie 是伺服器傳送並儲存在 Client 端瀏覽器的小片段資料，�
 3. 追蹤  
 記錄使用者行為，例如：瀏覽時間、頁面…等
 
-###Cookie 的設定：
+### Cookie 的設定：
 
 伺服器收到瀏覽器的 request 後，回傳一個 HTTP Response 至瀏覽器，其中 header 就包含了 set-cookie 的資訊：
 ```
