@@ -1,0 +1,8 @@
+[09-Jun-2019 11:34:07 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/gk0bzeoh7dod/public_html/group1/ChihYang41/Week9/index.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/gk0bzeoh7dod/public_html/group1/ChihYang41/Week9/index.php on line 12
+[09-Jun-2019 11:35:40 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/gk0bzeoh7dod/public_html/group1/ChihYang41/Week9/index.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/gk0bzeoh7dod/public_html/group1/ChihYang41/Week9/index.php on line 12
