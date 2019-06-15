@@ -1,5 +1,0 @@
-.special::after {
-  content: '{tRaNspar3nT}';
-  margin-left: -160px;
-  background-color: #000;
-}
