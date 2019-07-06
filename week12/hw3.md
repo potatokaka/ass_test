@@ -8,7 +8,7 @@ SELECT * FROM users WHERE username='$name' and password='$password'
 ```
 如果在帳號的欄位，輸入`'OR 1=1 --`，其中因為 `--` 會將後方的內容註解掉，因此這時 SQL 的指令會變成：
 ```php
-select * from members where account='' or 1=1 
+SELECT * FROM users WHERE username='' or 1=1 
 ```
 前段的條件式因為判斷式「1=1」永遠成立，而使得攻擊者能在略過帳號密碼的驗證而登入資料庫。
 
