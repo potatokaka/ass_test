@@ -45,7 +45,7 @@ XSS (Cross-Site Scripting) 跨站腳本攻擊，意思是指攻擊者在網頁�
 
 ## 請說明 CSRF 的攻擊原理以及防範方法
 
-CSRF(Cross-site Request Forgery）跨站請求偽造。CSRF 雖然與 XSS 都有「跨站」二字，CSRF 與 XSS 最大的不同是，不需藉由 JavaScript 就能達到目的。簡單來說，CSRF 是通過偽裝成受信任用戶的請求去觸發某些操作，。與XSS 相比，CSRF 較難防範，比 XSS 更具危險性。
+CSRF(Cross-site Request Forgery）跨站請求偽造。CSRF 雖然與 XSS 都有「跨站」二字，CSRF 與 XSS 最大的不同是，不需藉由 JavaScript 就能達到目的。簡單來說，CSRF 是通過偽裝成受信任用戶的請求去觸發某些操作。與XSS 相比，CSRF 較難防範，比 XSS 更具危險性。
 
 CSRF 發生的場景是，使用者已登入網站，在不知情的情況下，在目前瀏覽的網站點擊其他網站的連結，因而去執行一些在其他網站上需要權限的操作，也就是以合法的身份去進行非法的操作，例如轉賬。原理是攻擊者藉由使用者的 Cookie 去騙取伺服器的信任，偽造使用者的請求發送給受攻擊的服務器，而因為此攻擊通常只需要一個點擊發送就能成功繞過同源策略，因此 CSRF 又被稱為 One Click Attack 或 Session Riding。
 
