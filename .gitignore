@@ -1,5 +1,7 @@
 node_modules/
 conn.php
+conn_local.php
+conn_remote.php
 Week9/REF/
 Week9/abc/
 .DS_STORE
