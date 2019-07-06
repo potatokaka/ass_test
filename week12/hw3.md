@@ -24,7 +24,7 @@ $stmt->bind_param('ss', $username, $password);
 
 
 ## 請說明 XSS 的攻擊原理以及防範方法
-XSS (Cross-Site Scripting) 跨站腳本攻擊，意思是指攻擊者在網頁上插入惡意程式碼，通常藉由 JavaScript 不在 server 端執行，而在 client 端的瀏覽器執行的特性，修改網頁內容，以達到控制網站元素、控制瀏覽器、竊取用戶 cookie…等目的，甚至冒用各類用戶帳號、導入鈞魚網站、竊取企業信息…等。
+XSS (Cross-Site Scripting) 跨站腳本攻擊，意思是指攻擊者在網頁上插入惡意程式碼，通常藉由 JavaScript 不在 server 端執行，而在 client 端的瀏覽器執行之特性，修改網頁內容，以達到控制網站元素、控制瀏覽器、竊取用戶 cookie…等目的，甚至冒用各類用戶帳號、導入鈞魚網站、竊取企業信息…等。
 
 - Stored XSS (儲存型)：將惡意程式碼窵入網頁，並儲存至 server 端的資料庫，只要有用戶的瀏覽器載入網頁，該頁面就會繼續執行惡意程式碼，目的是達到持續攻擊用戶的作用。
 
