@@ -4,7 +4,7 @@ Bootstrap 是網站和網路應用程式的前端開發框架，主要包含了 
 - [bootstrap.js ](https://github.com/twbs/bootstrap/blob/master/dist/js/bootstrap.js)：JavaScript / jQuery 框架
 - [glyphicons](https://getbootstrap.com/docs/3.3/components/)：圖示庫 (icon font set)
 
-Bootstrap 原字面上的意愚是「靴子的鞋帶」，在《The Adventures of Baron Munchausen》書中，主角靠著一條自己的鞋帶 (bootstrap)，將自身從一灘爛泥中拉上地面來，後來 Bootstrap 也衍生為自力更生、不求人的意涵。
+Bootstrap 原字面上的意思是「靴子的鞋帶」，在《The Adventures of Baron Munchausen》書中，主角靠著一條自己的鞋帶 (bootstrap)，將自身從一灘爛泥中拉上地面來，後來 Bootstrap 也衍生為自力更生、不求人的意涵。
 
 因 Bootstrap 內建多款模組化的版型、表單、按鈕等元件，優點如下：
 - 模組化的樣板，避免重工，節省 UI 設計時間
