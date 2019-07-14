@@ -38,7 +38,7 @@ jQuery 是一套以 Javascript 編寫的函式庫，將原本複雜的 JavaScrip
 
 
 ## jQuery 與 vanilla JS 的關係是什麼？
-vanilla JS 是指原生的 JavaScript 語法，有鑑於 jQuery 後來常被濫用且各式框架掘起，因此有人將 JavaScript 戲稱為[ Vanilla.js](hhttp://vanilla-js.com/)；而 jQuery 則是 JavaScript 的 library，目的是減輕 JavaScript 撰寫的複雜性。
+vanilla JS 是指原生的 JavaScript 語法，有鑑於 jQuery 後來常被濫用且各式框架掘起，因此有人將 JavaScript 戲稱為[ Vanilla.js](http://vanilla-js.com/)；而 jQuery 則是 JavaScript 的 library，目的是減輕 JavaScript 撰寫的複雜性。
 
 可以將 jQuery 想像是三合一咖啡包，已將咖啡粉、糖、奶精包裝成一個現成的套組；而 vanilla JS 則是自己煮咖啡，再加糖(還可以選擇三分糖)、奶精(或是用鮮奶比較好)。意思是，雖然 jQuery 帶來極大的便利性，但因應不同的狀況，有時候原生的 JavaScript 也能輕鬆達成，而可省去下載 jQuery 的負擔，才不會拖慢網頁瀏覽的速度。也因此出現了像 [You might not need jQuery](http://youmightnotneedjquery.com/) 的網站，主張依情況使用原生 JavaScript 程式碼。
 
