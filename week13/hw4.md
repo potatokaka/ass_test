@@ -2,7 +2,7 @@
 Bootstrap 是網站和網路應用程式的前端開發框架，主要包含了 HTML、CSS 及 JavaScript 的內容框架。
 - [bootstrap.css](https://github.com/twbs/bootstrap/blob/master/dist/css/bootstrap.css)：CSS 框架
 - [bootstrap.js ](https://github.com/twbs/bootstrap/blob/master/dist/js/bootstrap.js)：JavaScript / jQuery 框架
-- [glyphicons](https://getbootstrap.com/docs/3.3/components/) — 圖示庫 (icon font set)
+- [glyphicons](https://getbootstrap.com/docs/3.3/components/)：圖示庫 (icon font set)
 
 Bootstrap 原字面上的意愚是「靴子的鞋帶」，在《The Adventures of Baron Munchausen》書中，主角靠著一條自己的鞋帶 (bootstrap)，將自身從一灘爛泥中拉上地面來，後來 Bootstrap 也衍生為自力更生、不求人的意涵。
 
@@ -24,8 +24,7 @@ Bootstrap 原字面上的意愚是「靴子的鞋帶」，在《The Adventures o
 4. lg：≥ 992px
 5. xl：≥ 1200px
 
-https://imgur.com/pbRR3ZT
-
+![](https://i.imgur.com/OO7Puio.png)
 
 ## 請找出任何一個與 Bootstrap 類似的 library
 - [ZURB Foundation](https://zurb.com/responsive)
