@@ -1,0 +1,5 @@
+[20-Jun-2019 08:23:21 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_stmt::fetch_assoc() in /home/gk0bzeoh7dod/public_html/group3/julypenguin/week12/update.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/gk0bzeoh7dod/public_html/group3/julypenguin/week12/update.php on line 27
+[20-Jun-2019 10:36:28 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/gk0bzeoh7dod/public_html/group3/julypenguin/week12/handle_register.php on line 25

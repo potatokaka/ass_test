@@ -1,0 +1,29 @@
+[25-Jun-2019 08:59:04 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/gk0bzeoh7dod/public_html/group1/ishin4554/w12/source/utils_post.php:76
+Stack trace:
+#0 /home/gk0bzeoh7dod/public_html/group1/ishin4554/w12/template/like_button.php(6): Like->getAllLike()
+#1 /home/gk0bzeoh7dod/public_html/group1/ishin4554/w12/template/comment.php(17): include('/home/gk0bzeoh7...')
+#2 /home/gk0bzeoh7dod/public_html/group1/ishin4554/w12/template/board.php(22): include('/home/gk0bzeoh7...')
+#3 /home/gk0bzeoh7dod/public_html/group1/ishin4554/w12/index.php(23): include('/home/gk0bzeoh7...')
+#4 {main}
+  thrown in /home/gk0bzeoh7dod/public_html/group1/ishin4554/w12/source/utils_post.php on line 76
+[25-Jun-2019 09:01:20 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/gk0bzeoh7dod/public_html/group1/ishin4554/w12/source/utils_post.php:76
+Stack trace:
+#0 /home/gk0bzeoh7dod/public_html/group1/ishin4554/w12/template/like_button.php(6): Like->getAllLike()
+#1 /home/gk0bzeoh7dod/public_html/group1/ishin4554/w12/template/comment.php(17): include('/home/gk0bzeoh7...')
+#2 /home/gk0bzeoh7dod/public_html/group1/ishin4554/w12/template/board.php(22): include('/home/gk0bzeoh7...')
+#3 /home/gk0bzeoh7dod/public_html/group1/ishin4554/w12/index.php(23): include('/home/gk0bzeoh7...')
+#4 {main}
+  thrown in /home/gk0bzeoh7dod/public_html/group1/ishin4554/w12/source/utils_post.php on line 76
+[25-Jun-2019 09:01:57 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/gk0bzeoh7dod/public_html/group1/ishin4554/w12/source/utils_user.php:68
+Stack trace:
+#0 /home/gk0bzeoh7dod/public_html/group1/ishin4554/w12/handle_user_login.php(17): Session->setSession()
+#1 {main}
+  thrown in /home/gk0bzeoh7dod/public_html/group1/ishin4554/w12/source/utils_user.php on line 68
+[30-Jun-2019 19:01:37 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/gk0bzeoh7dod/public_html/group1/ishin4554/w12/source/utils_post.php:76
+Stack trace:
+#0 /home/gk0bzeoh7dod/public_html/group1/ishin4554/w12/template/like_button.php(6): Like->getAllLike()
+#1 /home/gk0bzeoh7dod/public_html/group1/ishin4554/w12/template/comment.php(17): include('/home/gk0bzeoh7...')
+#2 /home/gk0bzeoh7dod/public_html/group1/ishin4554/w12/template/board.php(22): include('/home/gk0bzeoh7...')
+#3 /home/gk0bzeoh7dod/public_html/group1/ishin4554/w12/index.php(23): include('/home/gk0bzeoh7...')
+#4 {main}
+  thrown in /home/gk0bzeoh7dod/public_html/group1/ishin4554/w12/source/utils_post.php on line 76

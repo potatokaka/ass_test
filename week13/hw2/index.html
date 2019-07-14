@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+  <link rel="stylesheet" href="css/style.css">
+  <link href="https://fonts.googleapis.com/icon?family=Material+Icons"
+      rel="stylesheet">
+  <script src="https://code.jquery.com/jquery-3.4.1.js"></script>
+  <script src="js/all.js"></script>
+  <title>Todo List</title>
+</head>
+<body>
+  <div class="container">
+    <div id="todo-list" class="row justify-content-md-center">
+      <div class="col-md-6">
+
+        <div class="card">
+          <h5 class="card-header">Todo List</h5>
+          <div class="card-body">
+            <h5 class="card-title">Thursday, 11th 2019</h5>
+            <p class="card-text">Be yourself. Everyone else is taken.</p>
+            <div class="add-todo">
+              <input class="input-underlined" placeholder="What to do">
+              <div class="btn-submit"><i class="material-icons">library_add</i></div>
+            </div>
+            <h6>Your Tasks</h6>
+          </div>
+            
+          <ul class="list-group list-group-flush">
+            <li class="list-group-item active">
+              <div class="form-check">
+                <input class="form-check-input" type="checkbox" value="" checked>
+                  Breakfast
+              </div>
+              <div class="btn-close"><i aria-hidden="true" class="material-icons">close</i></div>
+            </li>
+            <li class="list-group-item">
+              <div class="form-check">
+                <input class="form-check-input" type="checkbox" value="">
+                  Daydream
+              </div>
+              <div class="btn-close"><i aria-hidden="true" class="material-icons">close</i></div>
+            </li>
+          </ul>
+
+        </div>
+        
+      </div>
+    </div>
+  </div>
+</body>
+</html>
