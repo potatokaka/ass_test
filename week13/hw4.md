@@ -34,7 +34,7 @@ Bootstrap 原字面上的意思是「靴子的鞋帶」，在《The Adventures o
 ](https://material.io/) 
 
 ## jQuery 是什麼？
-jQuery 是一套以 Javascript 編寫的函式庫，將原本複雜的 JavaScript 簡化成套件功能，讓 HTML 與 JavaScript 之間的操作更簡短，例如：原本在 JavaScript 中的 `document.getElementByID("name")` ，在 jQuery 則簡化成 `${'.name'}` 。優點是縮短開發時間，以及跨瀏覽器整合。然後，隨著近年來各瀏覽器趨向標準化，再加上新框架 React、Vue、Angular 嶄露頭角，jQuery 有漸漸式微的趨勢。
+jQuery 是一套以 Javascript 編寫的函式庫，將原本複雜的 JavaScript 簡化成套件功能，讓 HTML 與 JavaScript 之間的操作更簡短，例如：原本在 JavaScript 中的 `document.getElementByID("name")` ，在 jQuery 則簡化成 `${'#name'}` 。優點是縮短開發時間，以及跨瀏覽器整合。然後，隨著近年來各瀏覽器趨向標準化，再加上新框架 React、Vue、Angular 嶄露頭角，jQuery 有漸漸式微的趨勢。
 
 
 ## jQuery 與 vanilla JS 的關係是什麼？
