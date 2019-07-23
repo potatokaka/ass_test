@@ -31,7 +31,7 @@ SQL 和 NoSQL 指的是查詢資料庫的兩類方法，而非資料庫本身。
 
 - 標準化原則：關聯式資料庫使用交易（Transaction）的運作原則，讓資料存取或異動的過程中確保資料的完整性，其中包含了 ACID 的準則 (原子性 Atomicity、一致性 Consistency、隔離性 Isolation、持久性 Durability)，以維持資料庫的穩定性與安全性。
 
-- 缺點是難以擴充套件且效能隨著資料庫的變大而快速下降。需要效能和容量較大的伺服器才能勝任
+- 缺點是難以擴充套件且效能隨著資料庫的變大而快速下降。需要效能和容量較大的伺服器才能勝任。
 
 ### NoSQL (Not Only SQL)
 Not Only SQL，是「不只是 SQL」、「Non-relational」的意思，最常見的是Apache Cassandra、MongoDB 等服務。
