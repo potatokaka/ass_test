@@ -13,7 +13,6 @@ DNS(Domain Name System)，也就是網域名稱系統。 DNS 伺服器主要的�
 
 ### Google 的好處
 - 搜尋引擎優化：Google 可透過 Public DNS 的上網行為統計使用數據，來強化其搜尋引擎，以達到更精準的服務
-
 - Google 廣告：透過搜集的相關數據，可用來準確廣告投放定位
 
 
