@@ -13,7 +13,7 @@ Cache 的機制是用來減少 Server 負載，以及縮短 Client 端資源等�
 
 Cache-Control 詳細如下圖：
 
-[](https://i.imgur.com/1xyfUd2.png)
+![](https://i.imgur.com/1xyfUd2.png)
 圖片來源-[Camel's Blog](Https://blog.camel2243.com/2018/09/23/http-http-header%EF%BC%8C-cache-control-expires-%E7%94%A8%E6%B3%95%E8%AA%AA%E6%98%8E/)
 
 - max-age：直接設定 cache 過期的時間，`max-age=30` 就是過 30 秒會過期
