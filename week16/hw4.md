@@ -9,9 +9,7 @@ Cache 的機制是用來減少 Server 負載，以及縮短 Client 端資源等�
 圖片來源- [新手坑：讓人又愛又恨的 HTTP Caching](https://medium.com/frochu/http-caching-3382037ab06f)
 
 
-- Expires：是最早在 HTTP 1.0 就存在的 Header，用法是 `Expires: Wed, 5 Mar 2018 11:00:00 GMT`，但由於 Client 端的日期有可能會和伺服器端時間不同步，因此在 HTTP 1.0 之後都建議使用  Cache-Control Header。
-
-Cache-Control 詳細如下圖：
+- Expires：是最早在 HTTP 1.0 就存在的 Header，用法是 `Expires: Wed, 5 Mar 2018 11:00:00 GMT`，但由於 Client 端的日期有可能會和伺服器端時間不同步，因此在 HTTP 1.0 之後都建議使用  Cache-Control Header。Cache-Control 詳細如下圖：
 
 ![](https://i.imgur.com/1xyfUd2.png)
 圖片來源-[Camel's Blog](Https://blog.camel2243.com/2018/09/23/http-http-header%EF%BC%8C-cache-control-expires-%E7%94%A8%E6%B3%95%E8%AA%AA%E6%98%8E/)
