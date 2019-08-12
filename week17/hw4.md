@@ -19,10 +19,10 @@ obj2.hello() // ??
 hello() // ??
 ```
 
-輸出結果為：
-2
-2
-undefined
+輸出結果為：  
+2  
+2  
+undefined  
 
 在大部份的情境下，this 代表的就是呼叫 function 的物件 (Owner Object of the function)。而隨著函式執行場合的不同，this 指向的值也會跟著改變。簡單來說， this 的值，只跟「函式的呼叫方法」有關係，而跟宣告的位置在哪裡無關。而其中，呼叫方式只需要將 function 轉換成 call 的形式就可以輕鬆辨識 this 了。
 
