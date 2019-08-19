@@ -1,0 +1,18 @@
+$primary-color: pink;
+
+.box {
+  background-color: $primary-color;
+}
+
+.nav {
+  height: 76px;
+  background-color: $primary-color;
+  font-size: 0px;
+  
+  .nav_btn_g {
+    height: 76px;
+    min-width: 680px;
+    text-align: center;
+    padding-top: 23px;
+  }
+}
