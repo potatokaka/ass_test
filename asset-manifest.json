@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/potatokaka/static/css/main.464787df.chunk.css",
-    "main.js": "/potatokaka/static/js/main.b8fce407.chunk.js",
-    "main.js.map": "/potatokaka/static/js/main.b8fce407.chunk.js.map",
-    "runtime~main.js": "/potatokaka/static/js/runtime~main.6feb2d60.js",
-    "runtime~main.js.map": "/potatokaka/static/js/runtime~main.6feb2d60.js.map",
-    "static/js/2.f7fbbcdd.chunk.js": "/potatokaka/static/js/2.f7fbbcdd.chunk.js",
-    "static/js/2.f7fbbcdd.chunk.js.map": "/potatokaka/static/js/2.f7fbbcdd.chunk.js.map",
-    "index.html": "/potatokaka/index.html",
-    "precache-manifest.6e695dfbdb7ea386f81f689017fbb4db.js": "/potatokaka/precache-manifest.6e695dfbdb7ea386f81f689017fbb4db.js",
-    "service-worker.js": "/potatokaka/service-worker.js",
-    "static/css/main.464787df.chunk.css.map": "/potatokaka/static/css/main.464787df.chunk.css.map"
+    "main.css": "/potatokaka/todoList_react/static/css/main.464787df.chunk.css",
+    "main.js": "/potatokaka/todoList_react/static/js/main.b8fce407.chunk.js",
+    "main.js.map": "/potatokaka/todoList_react/static/js/main.b8fce407.chunk.js.map",
+    "runtime~main.js": "/potatokaka/todoList_react/static/js/runtime~main.56ac7cbb.js",
+    "runtime~main.js.map": "/potatokaka/todoList_react/static/js/runtime~main.56ac7cbb.js.map",
+    "static/js/2.f7fbbcdd.chunk.js": "/potatokaka/todoList_react/static/js/2.f7fbbcdd.chunk.js",
+    "static/js/2.f7fbbcdd.chunk.js.map": "/potatokaka/todoList_react/static/js/2.f7fbbcdd.chunk.js.map",
+    "index.html": "/potatokaka/todoList_react/index.html",
+    "precache-manifest.27dcc228360a88e0746e4708eb5461fd.js": "/potatokaka/todoList_react/precache-manifest.27dcc228360a88e0746e4708eb5461fd.js",
+    "service-worker.js": "/potatokaka/todoList_react/service-worker.js",
+    "static/css/main.464787df.chunk.css.map": "/potatokaka/todoList_react/static/css/main.464787df.chunk.css.map"
   }
 }
