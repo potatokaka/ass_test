@@ -1,0 +1,18 @@
+.post-item {
+  cursor: pointer;
+  color: #565353;
+}
+.post-item__id {
+  font-size: 10px;
+}
+
+.post-item__author {
+  font-size: 12px;
+}
+.post-item__body {
+  font-size: 16px;
+  color: #999999;
+  overflow:hidden;
+  white-space: nowrap;
+  text-overflow: ellipsis;
+}
